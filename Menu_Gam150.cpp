@@ -1,13 +1,3 @@
-/******************************************************************************/
-/*!
-\file   Menu.c
-\author Minji Kim
-\par    email: seraminji2146\@gmail.com
-\brief
-This is the source file about Digipen Splash
-*/
-/******************************************************************************/
-
 //Header file related to the implementation
 #include "Menu.h"
 
