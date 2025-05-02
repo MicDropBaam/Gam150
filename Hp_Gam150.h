@@ -1,13 +1,3 @@
-/******************************************************************************/
-/*!
-\file   Hp.h
-\author Minji Kim
-\par    email: seraminji2146\@gmail.com
-\brief
-This is the source file about health bar
-*/
-/******************************************************************************/
-
 #ifndef HP_H
 #define HP_H
 
